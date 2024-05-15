@@ -1,6 +1,6 @@
 # Project Based Experiments
-### Developed By: Prasanth U
-### Rgistor Number: 212222220031
+### Developed By: R Saket ram
+### Rgistor Number: 212223230181
 
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
